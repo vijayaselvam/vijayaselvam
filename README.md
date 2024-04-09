@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vijaya Selvam Ceemon 🙏</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 About Me:                                             <p align="right"> <img src="https://komarev.com/ghpvc/?username=vijayaselvam&label=Profile%20views&color=0e75b6&style=flat" alt="vijayaselvam" /> </p>                                        
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayaselvam&label=Profile%20views&color=0e75b6&style=flat" alt="vijayaselvam" /> </p>
+ 
+# 💫 About Me:                                                                                    
 🔭 I’m currently working on React JS/ .NET  projects<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about react, .NET<br><br>📫 How to reach me vijayaselvamceemon@gmail.com<br><br>⚡ Fun fact Cool
 
 
