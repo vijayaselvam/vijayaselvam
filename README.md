@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vijaya Selvam Ceemon</h1>
+                                                                                                             [![](https://visitcount.itsvg.in/api?id=vijayaselvam&icon=4&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">Hi 👋, I'm Vijaya Selvam Ceemon 🙏</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 About Me:                                                                                        [![](https://visitcount.itsvg.in/api?id=vijayaselvam&icon=4&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                                                                                        
 🔭 I’m currently working on React JS/ .NET  projects<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about react, .NET<br><br>📫 How to reach me vijayaselvamceemon@gmail.com<br><br>⚡ Fun fact Cool
 
 
